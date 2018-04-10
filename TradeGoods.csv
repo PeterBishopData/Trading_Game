@@ -1,0 +1,60 @@
+0,London,Iron,738,724,5,1,676
+1,London,Whiskey,552,624,5,1,498
+2,London,Paper,264,251,10,1,223
+3,London,Beer,248,250,8,1,213
+4,London,Brass,672,683,3,1,632
+5,London,Fish,125,131,0,0,136
+6,London,Butter,272,298,0,0,299
+7,London,Brandy,656,608,0,0,722
+8,London,Cattle,280,286,0,0,308
+9,London,Tweed,812,841,0,0,893
+10,London,Wool,324,325,0,0,356
+11,London,Cheese,304,332,0,0,334
+12,London,Lead Ore,392,397,0,0,431
+13,London,Tin Ore,424,398,0,0,466
+14,London,Lavender,676,573,0,0,739
+15,Dover,Iron,738,801,0,0,812
+16,Dover,Whiskey,552,538,0,0,607
+17,Dover,Paper,264,247,0,0,290
+18,Dover,Beer,248,269,0,0,272
+19,Dover,Brass,672,699,0,0,739
+20,Dover,Fish,125,107,15,1,99
+21,Dover,Butter,272,290,8,1,239
+22,Dover,Brandy,656,643,5,1,573
+23,Dover,Cattle,280,270,0,0,308
+24,Dover,Tweed,812,896,0,0,893
+25,Dover,Wool,324,343,0,0,356
+26,Dover,Cheese,304,276,0,0,334
+27,Dover,Lead Ore,392,395,0,0,431
+28,Dover,Tin Ore,424,383,0,0,466
+29,Dover,Lavender,676,645,0,0,739
+30,Edinburgh,Iron,738,799,0,0,812
+31,Edinburgh,Whiskey,552,591,0,0,607
+32,Edinburgh,Paper,264,270,0,0,290
+33,Edinburgh,Beer,248,201,0,0,272
+34,Edinburgh,Brass,672,706,0,0,739
+35,Edinburgh,Fish,125,123,0,0,136
+36,Edinburgh,Butter,272,279,0,0,299
+37,Edinburgh,Brandy,656,583,0,0,722
+38,Edinburgh,Cattle,280,259,8,1,241
+39,Edinburgh,Tweed,812,896,6,1,727
+40,Edinburgh,Wool,324,273,12,1,301
+41,Edinburgh,Cheese,304,314,0,0,334
+42,Edinburgh,Lead Ore,392,427,0,0,431
+43,Edinburgh,Tin Ore,424,450,0,0,466
+44,Edinburgh,Lavender,676,703,0,0,739
+45,Plymouth,Iron,738,771,0,0,812
+46,Plymouth,Whiskey,552,624,0,0,607
+47,Plymouth,Paper,264,271,0,0,290
+48,Plymouth,Beer,248,224,0,0,272
+49,Plymouth,Brass,672,629,0,0,739
+50,Plymouth,Fish,125,119,0,0,136
+51,Plymouth,Butter,272,275,0,0,299
+52,Plymouth,Brandy,656,686,0,0,722
+53,Plymouth,Cattle,280,307,0,0,308
+54,Plymouth,Tweed,812,833,0,0,893
+55,Plymouth,Wool,324,292,0,0,356
+56,Plymouth,Cheese,304,329,10,1,258
+57,Plymouth,Lead Ore,392,378,12,1,350
+58,Plymouth,Tin Ore,424,398,6,1,345
+59,Plymouth,Lavender,676,637,3,1,621

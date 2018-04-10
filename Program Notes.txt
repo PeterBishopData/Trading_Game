@@ -1,0 +1,30 @@
+Index
+
+The purpose of the game is to make money trading goods at various ports (4) around the British Isles.  The ship can carry up to 3 different trade goods and a total volume of 25 units
+
+
+Data Files Details
+
+These are all stored in a folder called Data
+
+Bank – Reference, Bank, Amount
+Cargo – Reference, Slot, Trade Good, Amount, Price
+Distances (Table) – London, Dover, Edinburgh, Plymouth
+Merchant – Reference, Parameter, Value (Data doesn’t change)
+Port – Port Name
+Trade Goods – Reference, Port, Trade Good, Base Price, Sale Price, Amount, Flag, Purchase Price
+
+
+Game Flow
+
+Upload Data Files
+Post Merchant Description
+Sell Trade Goods
+Purchase Trade Goods
+Reset Prices
+Sail to New Port
+Option to Continue
+Download Data Files
+
+
+
